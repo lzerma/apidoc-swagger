@@ -3,5 +3,7 @@ node_modules/
 test/
 json/
 obj/
+swagger.json
+swagger.yaml
 apidoc-swagger.njsproj
 apidoc-swagger.sln

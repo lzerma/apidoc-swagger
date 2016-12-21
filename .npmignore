@@ -6,5 +6,7 @@ test/
 json/
 lib/read
 obj/
+swagger.json
+swagger.yaml
 apidoc-swagger.njsproj
 apidoc-swagger.sln
